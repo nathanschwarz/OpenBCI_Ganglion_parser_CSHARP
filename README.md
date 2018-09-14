@@ -18,7 +18,7 @@ public void Main(){
 
 	// When receiving data from the Ganglion, call ganglion.parse(data);
 
-	// in you're main loop
+	// in your main loop
 
 	while (true){
 
