@@ -14,7 +14,7 @@ public void Main(){
 
 	Ganglion ganglion = new Ganglion();
 
-	// start your BLE receiver (not included in this project), which will handle all the communication with the Ganglion board.
+	// start your BLE receiver (not included in this project), which will handle the communication with the Ganglion board.
 
 	// When receiving data from the Ganglion, call ganglion.parse(data);
 
