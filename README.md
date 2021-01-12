@@ -1,9 +1,6 @@
 # OpenBCI_Ganglion_parser_CSHARP
 
 C# parser for the open source openBCI Ganglion Board
-
-This project was made for the PoC association in partnership with zeta (https://www.zetascience.tech/).
-
 This project will be used to parse the data from the Ganglion into Unity.
 
 # Basic usage
